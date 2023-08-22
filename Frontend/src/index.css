@@ -1,0 +1,5 @@
+@font-face { font-family: "RCfont"; src: url(./assets/fonts/cute.ttf) format("truetype"); }
+
+* {
+  font-family: "RCfont" !important;
+}

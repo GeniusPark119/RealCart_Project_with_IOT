@@ -1,0 +1,22 @@
+{
+	"Model": "SSAFY_01",
+	"Car_No": "1",
+	"IP": "i8a403.p.ssafy.io",
+	"Port": 8081,
+	"Gate1": "2201,4124,843,1103,1382,2125",
+	"Gate2": "431,669,1257,1602,685,924",
+	"Gate3": "276,493,446,682,859,1217",
+	"Gate4": "3302,4708,847,1169,944,1269",
+	"DC_enable": 27,
+	"DC_input1": 15,
+	"DC_input2": 18,
+	"Servo_pin": 17,
+	"Color_s2": 23,
+	"Color_s3": 24,
+	"Color_signal": 25,
+	"Handle_center": 7.75,
+	"Handle_left": 5.5,
+	"Handle_right": 9,
+	"Speed_limit": 80,
+	"Boost_speed_limit": 100
+}
